@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+  }
+
+  table{
+
+    margin: 5px auto; 
+  }
+
+  td{
+  width:100px;
+  height:100px; 
+}
+ .tdv{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.tdh{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.td3{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+
+}
+
+.tdh2{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black; 
+
+}
+
+.tdh3{
+  border-left: 1px solid black;
+  border-right: 1px solid black; 
+
+}
